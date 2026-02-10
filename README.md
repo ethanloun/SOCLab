@@ -1,7 +1,7 @@
 <h1>SOC Lab</h1>
 
 <h2>Description</h2>
-In this lab, I create a simple home Security Operations Center in Azure. I set up a Windows virtual machine as a honeypot, expose it to the public internet to attract genuine attack traffic, and then send the resulting logs to a central Log Analytics Workspace. These logs are then integrated with Microsoft Sentinel for analysis, allowing me to query and visualize attack data, as well as create a real-time attack map that displays attacker positions. The project is designed for practical experience in log analysis, threat detection, and SOC operations in a real-world cloud environment.
+In this lab, I create a simple home Security Operations Center in Azure. I set up a Windows virtual machine as a honeypot, expose it to the public internet to attract genuine attack traffic, and then send the resulting logs to a central Log Analytics Workspace. These logs are then integrated with Microsoft Sentinel for analysis, allowing me to query and visualize attack data, as well as create a real-time attack map that displays attacker positions. The project is designed for practical experience in log analysis, threat detection, and SOC operations in a real-world cloud environment. I used this video for reference - https://www.youtube.com/watch?v=g5JL2RIbThM by Josh Madakor.
 <br />
 
 <h2>Languages and Utilities Used</h2>
